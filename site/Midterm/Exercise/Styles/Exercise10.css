@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    box-sizing: border-box;
+    margin: 10px auto;
+}
+body{
+    background-color: #1A2231;
+}
+#content{
+    width: 1024px;
+    border: 1pt #D6BC9D solid;
+}
+header{
+    width: 400px;
+    height: 200;
+    border: 1pt;
+    margin left: auto;
+    background-image :url(‘"https://i.redd.it/hwby1n4eeue51.jpg"’);
+    float: left;
+}
+nav{
+    width: 400px;
+    height: 200;
+    border: 1pt
+    float: right;
+}
+article{
+    width: 960px;
+    height: 200px;
+    border: 1pt #D6BC9D solid;
+}
+.center {
+    display: block;
+    margin-left: 0ch
+    margin-right: ;
+    width: 50%;
+  }
+.one{
+    width:400px;
+    height:200;
+    border: 1pt #D6BC9D solid;
+}

@@ -1,0 +1,19 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    box-sizing:border-box;
+    margin: 10px auto;
+}
+body
+{
+    background-color: #436287;
+}
+#Content{
+    width: 1024px;
+    border: 1pt #94B8BD solid;
+}
+header, nav, article, footer{
+    width: 960px;
+    height: 200px;
+    border: 1pt #94B8BD solid;
+}
